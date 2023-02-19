@@ -3,7 +3,7 @@
 • Languages: <br>
   English - Upper Intermediate<br>
   Russian - Native Speaker<br>
-  Belorussian - Advanced>br>
+  Belorussian - Advanced<br>
   Slovak - Intermediate<br>
 • Person with positive vibrations 🙃 <br>
 • Iron knowledge of languages below 🛡 <br>
