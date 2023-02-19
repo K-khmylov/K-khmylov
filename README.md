@@ -1,7 +1,7 @@
 ### Hi there, this is Kostya 👋
 • 16 sites behind 🥶<br>
 • Languages: <br>
-ㅤㅤ<b>English</b> - Upper Intermediate U+1F1EC U+1F1E7<br> 
+ㅤㅤ<b>English</b> - Upper Intermediate &#127468;&#127463;<br> 
 ㅤㅤ<b>Russian</b> - Native Speaker<br>
 ㅤㅤ<b>Belorussian</b> - Advanced<br>
 ㅤㅤ<b>Slovak</b> - Intermediate<br>
