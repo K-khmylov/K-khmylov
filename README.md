@@ -16,5 +16,5 @@
 <br>
 <b>Tools</b>
 <br>
-<img src="https://img.shields.io/badge/FIGMA-5075E6?style=for-the-badge&logo=FIGMA&logoColor=E6CB50"/> <img src="https://img.shields.io/badge/PINTEREST-5373DB?style=for-the-badge&logo=PINTEREST&logoColor=CC7545"/> <img src="https://img.shields.io/badge/DRIBBLE-77438A?style=for-the-badge&logo=DRIBBLE&logoColor=7AEBD6"/> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GITBUH&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-5075E6?style=for-the-badge&logo=FIGMA&logoColor=E6CB50"/> <img src="https://img.shields.io/badge/PINTEREST-5373DB?style=for-the-badge&logo=PINTEREST&logoColor=CC7545"/> <img src="https://img.shields.io/badge/DRIBBLE-77438A?style=for-the-badge&logo=DRIBBLE&logoColor=7AEBD6"/> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white"/>
 
