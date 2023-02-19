@@ -1,12 +1,12 @@
 ### Hi there, this is Kostya 👋
-• 16 sites behind 🥶
-• Languages: 
-  English - Upper Intermediate 
-  Russian - Native Speaker 🇷🇺
-  Belorussian - Advanced 🇧🇾
-  Slovak - Intermediate 🇧🇾🇷🇺🇷🇸🇸🇮🇸🇰
-• Person with positive vibrations 🙃
-• Iron knowledge of languages below 🛡
+• 16 sites behind 🥶<br>
+• Languages: <br>
+  English - Upper Intermediate<br>
+  Russian - Native Speaker<br>
+  Belorussian - Advanced>br>
+  Slovak - Intermediate<br>
+• Person with positive vibrations 🙃 <br>
+• Iron knowledge of languages below 🛡 <br>
 
 <b>Web hard skils</b>
 
